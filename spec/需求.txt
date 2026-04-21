@@ -1,0 +1,2 @@
+创建一个java类
+打印hello world
